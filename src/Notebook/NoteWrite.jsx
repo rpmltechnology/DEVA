@@ -40,4 +40,6 @@ const addNote = () =>{
         </>
     )
 }
+
+
 export default NoteWrite;
